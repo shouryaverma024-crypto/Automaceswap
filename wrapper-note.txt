@@ -1,0 +1,3 @@
+The Gradle wrapper JAR is a binary that could not be generated offline.
+Run `gradle wrapper --gradle-version 9.5.1` once (or let the GitHub Actions
+workflow use gradle/actions/setup-gradle, which needs no wrapper).
